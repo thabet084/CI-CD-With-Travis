@@ -16,5 +16,17 @@ namespace TravisDemo.UnitTesting
             //Assert
             Assert.AreEqual(5,x);
         }
+
+        [TestMethod]
+        public void TestMethod2()
+        {
+            //Arrange
+            int x = 50;
+
+            //Act
+
+            //Assert
+            Assert.AreEqual(50, x);
+        }
     }
 }
