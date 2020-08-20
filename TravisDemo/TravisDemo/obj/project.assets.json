@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\TravisDemo\\TravisDemo\\TravisDemo.csproj",
+      "projectUniqueName": "D:\\Courses\\Getting started with Travis CI\\Demo\\CI-CD-With-Travis\\TravisDemo\\TravisDemo\\TravisDemo.csproj",
       "projectName": "TravisDemo",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\TravisDemo\\TravisDemo\\TravisDemo.csproj",
+      "projectPath": "D:\\Courses\\Getting started with Travis CI\\Demo\\CI-CD-With-Travis\\TravisDemo\\TravisDemo\\TravisDemo.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\TravisDemo\\TravisDemo\\obj\\",
+      "outputPath": "D:\\Courses\\Getting started with Travis CI\\Demo\\CI-CD-With-Travis\\TravisDemo\\TravisDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

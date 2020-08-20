@@ -7,6 +7,9 @@ using Microsoft.Extensions.Logging;
 
 namespace TravisDemo.Controllers
 {
+    /// <summary>
+    /// controller name
+    /// </summary>
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
