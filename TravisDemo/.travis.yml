@@ -13,5 +13,5 @@ before_install:
  
  #command to run tests
 script: 
-    #unit test
- - python -m pytest -v
+ - dotnet restore
+ - dotnet test /p:CollectCoverage=true

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravisDemo", "TravisDemo\TravisDemo.csproj", "{A4BADC0E-73AF-4E41-B0F8-6DEBFE6A311A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TravisDemo", "TravisDemo\TravisDemo.csproj", "{A4BADC0E-73AF-4E41-B0F8-6DEBFE6A311A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravisDemo.UnitTesting", "TravisDemo.UnitTesting\TravisDemo.UnitTesting.csproj", "{86A93B45-E376-4942-B739-54609B48C77E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A4BADC0E-73AF-4E41-B0F8-6DEBFE6A311A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4BADC0E-73AF-4E41-B0F8-6DEBFE6A311A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4BADC0E-73AF-4E41-B0F8-6DEBFE6A311A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86A93B45-E376-4942-B739-54609B48C77E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A93B45-E376-4942-B739-54609B48C77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A93B45-E376-4942-B739-54609B48C77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A93B45-E376-4942-B739-54609B48C77E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
