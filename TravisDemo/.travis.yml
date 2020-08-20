@@ -1,0 +1,17 @@
+language: csharp
+mono: none
+
+dotnet: 3.1.300
+
+before_install:
+ - sudo apt-get update
+ - sudo apt -y install python3
+ - sudo apt -y install python3-pip
+ - sudo apt-get install python3-setuptools
+ - pip3 install boto3
+ - sudo apt -y install awscli  
+ 
+ #command to run tests
+script: 
+    #unit test
+ - python -m pytest -v
